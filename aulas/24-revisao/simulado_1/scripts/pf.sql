@@ -7,7 +7,7 @@ CREATE TABLE administradora (
     nome VARCHAR(80) NOT NULL,
     PRIMARY KEY (id_adm)
 );
-
+	
 CREATE TABLE parque (
 	id_parque INT NOT NULL,
     nome VARCHAR(80) NOT NULL,
